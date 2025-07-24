@@ -79,7 +79,7 @@ const params = {
   appId: 'app',
   clientId: 'council-compensation-2024',
   // unique for each dataset
-  cloudTableId: '620f2b54-629c-11f0-9b66-5b5135109554',
+  cloudTableId: 'fbc9604c-68ce-11f0-b1b2-370f1b17ed2a',
   // find in embed tab
   // below here probably won’t change 
   tableId: 'cloudtable',

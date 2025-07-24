@@ -28,8 +28,8 @@
 }
 
 #app footer {
-	display: flex;
-	flex-wrap: wrap;
+	/* display: flex;
+	flex-wrap: wrap; */
 }
 
 #app footer > p {
@@ -48,7 +48,7 @@
 #app .note,
 #app .source,
 #app .credit {
-	font-size: 0.8rem;
+	font-size: 0.9rem;
 }
 
 #app .credit {
